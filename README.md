@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam-0718(Shivam Vyas)
 - 👀 I’m interested in Programming, and I have done my Graduation in Mechanical Engineering.
-- 🌱 I’m currently learning Python prograaming, Git and Java as an interest in Programming
+- 🌱 I’m currently learning Python, Git and Java as an interest in Programming
 - 📫 You can reach me via Linkedin
 
 <!---
