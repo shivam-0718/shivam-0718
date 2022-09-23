@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java (Basics✅, Collections, Generics and DSA)**
 
-- 📫 How to reach me: You can mail me to **sh.vy.007@gmail.com**
+- 📫 How to reach me: Mail me to **sh.vy.007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
