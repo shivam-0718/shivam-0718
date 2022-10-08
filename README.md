@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Vyas</h1>
 <h3 align="center">A programmer seeking to learn new technologies, from India</h3>
 
-- 🌱 I’m currently learning **Java (Basics✅, Collections, Generics and DSA)**
+- 🌱 I’m currently learning **Java (Basics✅, Collections✅, Generics and DSA)**
 
 - 📫 How to reach me: Mail me to **sh.vy.007@gmail.com**
 
