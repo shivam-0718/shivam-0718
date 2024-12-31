@@ -31,6 +31,4 @@
   <li>AI/ML for Cybersecurity</li>
 </ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-0718&show_icons=true&theme=radical&locale=en" alt="shivam-0718" /></p>
-
 <p align="center">Let’s secure the web and build amazing software together!</p>
