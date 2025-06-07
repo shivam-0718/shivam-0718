@@ -17,66 +17,94 @@
 
 <table>
   <tr>
-    <th align="left">Category</th>
-    <th align="left">Technologies & Tools</th>
+    <th>Category</th>
+    <th>Technologies & Tools</th>
   </tr>
 
   <tr>
     <td><strong>Programming Languages</strong></td>
     <td>
-      <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/></a>
-      Core Java 8 &nbsp;&nbsp;
-      <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a>
-      Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> Core Java 8 &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python
     </td>
   </tr>
 
   <tr>
     <td><strong>Frameworks & Technologies</strong></td>
     <td>
-      <a href="https://spring.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="30" height="30"/></a>
-      Spring Boot, Spring MVC, Spring JDBC, Spring Data JPA, Spring Security, Spring AI &nbsp;&nbsp;
-      <a href="https://hibernate.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="30" height="30"/></a>
-      Hibernate ORM, Servlets
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"/> Spring Boot, Spring MVC, Spring JDBC, Spring Data JPA, Spring Security, Spring AI &nbsp;&nbsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="30"/> Hibernate ORM, Servlets
     </td>
   </tr>
 
   <tr>
     <td><strong>Database Technologies</strong></td>
     <td>
-      <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-      MySQL &nbsp;&nbsp;
-      <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/></a>
-      PostgreSQL, H2, JDBC, SQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> MySQL &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL, H2, JDBC, SQL
     </td>
   </tr>
 
   <tr>
     <td><strong>Web Technologies</strong></td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/></a>
-      HTML &nbsp;&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/></a>
-      CSS, JSP, Thymeleaf
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> HTML &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> CSS, JSP, Thymeleaf
     </td>
   </tr>
 
   <tr>
     <td><strong>Web Services</strong></td>
     <td>
-      <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" width="30" height="30"/>
-      REST API Development, Microservices Architecture, JSON
+      <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-api-coding-and-development-flat-flat-juicy-fish.png" width="30"/> REST API Development, Microservices Architecture, JSON
     </td>
   </tr>
 
   <tr>
     <td><strong>Testing & Code Quality</strong></td>
     <td>
-      <a href="https://junit.org/junit5/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/JUnit_logo.svg/2560px-JUnit_logo.svg.png" alt="JUnit5" width="40" height="20"/></a>
-      JUnit5 &nbsp;&nbsp;
-      <img src="https://avatars.githubusercontent.com/u/10008188?s=280&v=4" alt="Mockito" width="30" height="30"/>
-      Mockito &nbsp;&nbsp;
-      <img src="https://www.sonarqube.org/logos/index/logo-sonarqube-bla
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/JUnit_5_Banner.png" width="60"/> JUnit5 &nbsp;&nbsp;
+      <img src="https://avatars.githubusercontent.com/u/10008188?s=280&v=4" width="30"/> Mockito
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Version Control & DevOps Tools</strong></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> Git &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/> GitHub &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Docker &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" width="50"/> Maven
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Cloud Platforms</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> AWS &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="30"/> GCP
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Cybersecurity & Networking</strong></td>
+    <td>
+      🛡️ Vulnerability Analysis, Threat Detection, Incident Response, Cryptography Basics, OWASP Top 10, Computer Networks, TCP/IP
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Security Tools</strong></td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/splunk-3521547-2944775.png" width="30"/> Splunk &nbsp;&nbsp;
+      <img src="https://avatars.githubusercontent.com/u/35033765?s=280&v=4" width="30"/> Qualys VM &nbsp;&nbsp;
+      <img src="https://portswigger.net/cms/images/256/90db20b4d1f4-logo-250x250.png" width="30"/> BurpSuite &nbsp;&nbsp;
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="30"/> Nmap &nbsp;&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Wireshark_icon.svg" width="30"/> Wireshark &nbsp;&nbsp;
+      <img src="https://www.virustotal.com/static/images/logo.svg" width="80"/> VirusTotal, Hybrid Analysis
+    </td>
+  </tr>
+</table>
 
 ---
 
