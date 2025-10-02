@@ -32,5 +32,6 @@
 | **Security Tools** | Splunk, Qualys VM, BurpSuite, Nmap, Wireshark, VirusTotal, Hybrid Analysis |
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/s1807v?theme=dark&font=Inter&ext=heatmap)
 
 ⭐ *Thanks for visiting! Let's connect and collaborate.*
